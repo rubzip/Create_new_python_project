@@ -8,7 +8,7 @@ git clone https://github.com/rubzip/Create_new_python_project.git
 ```
 ### 2. Create the Virtual Envioroment
 ```console
-
+python -m venv .\venv\venv
 ```
 ### 2.5 Activate the Virtual Envioroment
 This has to be done every time that we restart the kernel.
