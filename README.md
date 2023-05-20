@@ -35,3 +35,6 @@ pip freeze > requirements.txt
 ```console
 pip install -r requirements.txt
 ```
+
+### 5. (Optional) Set up .env file
+If there is specific data only used in your envioroment (like user and password, or an API key) you can create an .env file.
